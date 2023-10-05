@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "input_database.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "my_local_protein_database",
+  "number-of-letters": 56870352,
+  "number-of-sequences": 120965,
+  "last-updated": "2023-10-05T14:25:00",
+  "number-of-volumes": 1,
+  "bytes-total": 78572813,
+  "bytes-to-cache": 57959158,
+  "files": [
+    "input_database.fa.pdb",
+    "input_database.fa.phr",
+    "input_database.fa.pin",
+    "input_database.fa.pot",
+    "input_database.fa.psq",
+    "input_database.fa.ptf",
+    "input_database.fa.pto"
+  ]
+}
