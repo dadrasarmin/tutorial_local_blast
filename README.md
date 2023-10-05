@@ -68,7 +68,7 @@ Read [this website](https://www.metagenomics.wiki/tools/blast/blastn-output-form
 You can use this command to get the best blast hit:
 
 ```
-awk: awk '!x[$1]++' blastp_my_query.outfmt6
+awk '!x[$1]++' blastp_my_query.outfmt6
 ```
 
 I learned it from a website that is not available anymore but this is the archive page:
